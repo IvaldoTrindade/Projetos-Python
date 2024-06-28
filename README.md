@@ -7,5 +7,7 @@ Caso você esteja visitando com a intenção de ver o que estou fazendo, peço p
 O meu objetivo, é que um dia eu possa a vir a desenvolver projetos como freelancer, e até mesmo consiga desenvolver coisas como um dev independente. Então, toda a ajuda é bem vinda! Sinta-se à vontade para me deixar qualquer tipo de crítica ou feedback.
 
 Caso queira me contatar, pode entrar em contato via:
+
 LinkedIn: https://www.linkedin.com/in/ivaldotrindade/
+
 e-mail: ivaldotrindade1245@gmail.com
