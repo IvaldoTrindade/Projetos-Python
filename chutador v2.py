@@ -52,9 +52,7 @@ def set_dificulty():
     if level == 'easy':
         return EASY_MODE
     else:
-        return HARD_MODE
-
-      
+        return HARD_MODE      
 
 def game():
     print(logo)
