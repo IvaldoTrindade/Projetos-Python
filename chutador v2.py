@@ -71,9 +71,13 @@ def game():
             if turns == 0:
                 print("You've run out of guesses, you lose.")
                 game_over = play_again()
+                if game_over == False:
+                    answer = guess_number()
                 break
             elif turns == -1:
                 game_over = play_again()
+                if game_over == False:
+                    answer = guess_number()
                 break
             elif guess != answer:
                 print("Guess again.")
