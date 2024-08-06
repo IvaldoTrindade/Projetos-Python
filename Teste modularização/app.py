@@ -1,4 +1,6 @@
-import audio as a
+from audio import Audio as a
 
-aumentar = a.aumentar_volume(5)
-diminuir = a.diminuir_volume(5)
+audio  = a(10)
+
+audio.aumentar_volume(5)
+audio.diminuir_volume(5)
